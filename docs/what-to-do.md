@@ -56,6 +56,8 @@ GNU 官网有专门的 GPL 合规页面：
 
 SFC 过去成功推动过很多公司（如 LG、三星、思科）遵守 GPL。虽然他们主要关注海外市场，但中英文举报他们都受理。
 
+如果你也想加入我们，欢迎fork本项目、提Pull Request
+
 ### 2. 在 GitHub 上关注和推进
 
 - 搜索 "xiaotiancai kernel" 或 "imoo kernel source" 相关 issue
