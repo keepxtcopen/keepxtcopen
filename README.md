@@ -43,4 +43,4 @@ docs/
 
 ## License
 
-本项目内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议。
+本项目内容采用 CC0 1.0 协议。
