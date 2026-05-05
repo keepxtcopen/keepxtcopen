@@ -16,6 +16,7 @@ export default defineConfig({
       { text: '霸王条款', link: '/eula-tyranny' },
       { text: '云控封号', link: '/cloud-ban' },
       { text: '社交垄断', link: '/social-monopoly' },
+      { text: '1.20事件', link: '/jan20-incident' },
     ],
 
     sidebar: [
@@ -24,6 +25,7 @@ export default defineConfig({
       { text: '用户协议霸王条款', link: '/eula-tyranny' },
       { text: '云控与封号机制', link: '/cloud-ban' },
       { text: '社交垄断与生态壁垒', link: '/social-monopoly' },
+      { text: '1.20事件：好友圈功能大改', link: '/jan20-incident' },
       { text: '最后说几句', link: '/closing' },
     ],
 
