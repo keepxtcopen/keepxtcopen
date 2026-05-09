@@ -31,6 +31,7 @@ export default defineConfig({
         text: '最新消息',
         link: '/news/',
         items: [
+          { text: '最新消息：GNU已基本承认小天才的“专有暴君”行为' , link: '/news/2026-05-06' },
           { text: '小天才下架教程并封号事件', link: '/news/2026-01-26' },
           { text: '2026-01-20 好友圈功能大改', link: '/news/2026-01-20' },
         ],
