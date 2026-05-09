@@ -31,7 +31,7 @@ export default defineConfig({
         text: '最新消息',
         link: '/news/',
         items: [
-          { text: '2025-01-20 好友圈功能大改', link: '/news/2025-01-20' },
+          { text: '2026-01-20 好友圈功能大改', link: '/news/2026-01-20' },
         ],
       },
       { text: 'GPL违规：闭源安卓内核', link: '/gpl-violation' },
