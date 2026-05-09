@@ -1,5 +1,11 @@
 # keepxtcopen
 
+---
+
+> This repository contains technical research, educational tutorials, and public fact documentation about the device and its software. It does not host or distribute any copyrighted firmware or code owned by BBK/Xiaotiancai. All content is protected under fair use for the purpose of criticism, research, and education.<br />Any attempt to issue a DMCA takedown notice against this repository will be considered an abuse of the DMCA process to suppress legitimate speech and user freedom, and will be publicly documented and reported to the Free Software Foundation.
+
+---
+
 我们只讲事实、不说白话，只为让大家知道小天才公司的所做所为。
 
 **小天才做了什么——**
