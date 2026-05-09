@@ -15,10 +15,10 @@ const distDir = resolve(__dirname, '..', 'docs', '.vitepress', 'dist', 'news')
 const siteUrl = 'https://starry2233.github.io/keepxtcopen'
 
 function parseFrontmatter(content) {
-  const match = content.match(/^---\n([\s\S]*?)\n---\n/)
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/)
   if (!match) return {}
   const fm = {}
-  for (const line of match[1].split('\n')) {
+  for (const line of match[1].split(/\r?\n/)) {
     const [key, ...rest] = line.split(':')
     if (key && rest.length) {
       fm[key.trim()] = rest.join(':').trim()
